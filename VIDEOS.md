@@ -2,5 +2,5 @@
 
 ---
 
-- 1 - 🎮 [Learn Drizzle In 60 Minutes](https://github.com/Arya-veysi/yt-dl/tree/main/videos/Learn%20Drizzle%20In%2060%20Minutes)
-- 2 - 🎹 [Stone ｜ 1 Minute Short Film ｜ Hot Shot](https://github.com/Arya-veysi/yt-dl/tree/main/videos/Stone%20%EF%BD%9C%201%20Minute%20Short%20Film%20%EF%BD%9C%20Hot%20Shot)
+- 1 - 🎥 [Drizzle ORM #1- Setup - Schema - Migrations ⭐](https://github.com/Arya-veysi/yt-dl/tree/main/videos/Drizzle%20ORM%20%231-%20Setup%20-%20Schema%20-%20Migrations%20%E2%AD%90)
+- 2 - 📽️ [Learn Drizzle In 60 Minutes](https://github.com/Arya-veysi/yt-dl/tree/main/videos/Learn%20Drizzle%20In%2060%20Minutes)
